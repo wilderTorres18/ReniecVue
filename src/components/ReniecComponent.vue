@@ -10,14 +10,11 @@ export default {
 
     const fetchDniData = async () => {
       try {
-        const url = `/api/reniec/dni?numero=${dni.value}`;
-        const token = "apis-token-5640.niRlRB2xgPdw0X6-XqTO8dDZetBYHHDk";
+        // Ahora apunta a tu función serverless en vez de directamente a la API de RENIEC
+        const url = `/api/reniec?dni=${dni.value}`;
 
-        const response = await axios.get(url, {
-          headers: {
-            'Authorization': `Bearer ${token}`
-          }
-        });
+        // No necesitas el header de autorización aquí ya que lo manejarás en tu función serverless
+        const response = await axios.get(url);
 
         if (response.status === 200) {
           dataFromReniec.value = response.data;
@@ -35,6 +32,7 @@ export default {
     };
   }
 }
+
 </script>
 
 <template>
