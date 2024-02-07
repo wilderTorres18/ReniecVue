@@ -1,24 +1,8 @@
-# reniec2023
 
-## Project setup
-```
-yarn install
-```
+RENIEC - VUE
+-   [Course Link](https://www.udemy.com/course/50-projects-50-days)
+-   [Course Info Website](https://50projects50days.com)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [Reniec Vue]                                                                                                                | [Live Demo](https://reniec-vue-git-master-wilder-s-projects.vercel.app/)               |
