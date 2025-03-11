@@ -5,7 +5,7 @@ Hola que tal, recuerdo cuando estaba en mi segundo año de carrera uno de mis do
 Vue - JS - Tailwind 
 
 # Objetivo 
-Hacer busqueda en la bd de reniec y Obtener Nombres completos de cualquier usuario
+Hacer busqueda en la bd de reniec por nro de DNI y Obtener Nombres completos.
 
 # Clonar Repo
 
@@ -15,4 +15,8 @@ Hacer busqueda en la bd de reniec y Obtener Nombres completos de cualquier usuar
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Reniec Vue]                                                                                                                | [Live Demo](https://reniec-vue-git-master-wilder-s-projects.vercel.app/)               |
+
+## Capturas de pantalla:
+
+![Captura de pantalla 1](src/img/screenshot.png)
 
