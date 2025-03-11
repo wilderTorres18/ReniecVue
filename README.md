@@ -1,4 +1,4 @@
-# Consumo-Api RENIEC - VUE
+# Welcome - Api Reniec 
 Hola que tal, recuerdo cuando estaba en mi segundo año de carrera uno de mis docentes nos asigno un proyecto basico, consistia en conectar mi primera API de RENIEC, La app tenia como objetivo mostrar nombres completos siempre y cuando se pase como parametro el numero de DNI del usuario cuyo DNI debe contener 8 digitos. 
 
 # Lenguajes o Frameworks 
